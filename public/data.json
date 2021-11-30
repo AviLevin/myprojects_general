@@ -1,0 +1,39 @@
+[
+  {
+    "pic_url": "images/prj1.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"c"
+  },
+  {
+    "pic_url": "images/prj2.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"c"
+  },
+  {
+    "pic_url": "images/prj3.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"c"
+  },
+  {
+    "pic_url": "images/prj4.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"c"
+  },
+  {
+    "pic_url": "images/prj5.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"c"
+  },
+  {
+    "pic_url": "images/prj6.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"c"
+  }
+  
+]
