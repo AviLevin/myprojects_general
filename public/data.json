@@ -28,7 +28,7 @@
     "title": "Online Shopping Cart ",
     "pic_url": "images/prj4.jpg",
     "github":"https://github.com/AviLevin/Online-Shopping-Cart",
-    "live":null,
+    "live":"https://codesandbox.io/s/online-shopping-cart-e77rk",
     "stack":"c"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Bynet_sr_1",
     "pic_url": "images/prj5.jpg",
     "github":"https://github.com/AviLevin/Bynet_sr_React",
-    "live":null,
+    "live":"https://codesandbox.io/s/bynet-sr-react-dcpqi",
     "stack":"c"
   },
   {
@@ -60,15 +60,15 @@
     "title": "Humanz CRUD + filter ",
     "pic_url": "images/prj11.jpg",
     "github":"https://github.com/AviLevin/Humanz-crud-filter",
-    "live":null,
+    "live":"https://codesandbox.io/s/humanz-crud-filter-xpy6r?file=/src/App.js",
     "stack":"c"
   },
   {
     "id":9,
-    "title": "API VIEW on router - match.params ",
+    "title": "Employees-Search-Engine- API VIEW on router - match.params ",
     "pic_url": "images/prj12.jpg",
-    "github":"https://github.com/AviLevin/people-finder-engi",
-    "live":null,
+    "github":"https://github.com/AviLevin/Employees-Search-Engine",
+    "live":"https://codesandbox.io/s/hungry-silence-71ex2",
     "stack":"c"
   },
   {
@@ -84,7 +84,7 @@
     "title": "Bynet 2021 - Carousel-Pixabay-API ",
     "pic_url": "images/prj13.jpg",
     "github":"https://github.com/AviLevin/Carousel-Pixabay-API",
-    "live":null,
+    "live":"https://codesandbox.io/s/carousel-pixabay-api-iruqg?file=/src/App.js",
     "stack":"cd"
   },
   {
