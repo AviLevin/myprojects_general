@@ -1,39 +1,126 @@
 [
   {
+    "id":1,
+    "title": "People Finder App ",
     "pic_url": "images/prj1.jpg",
     "github":"https://github.com/AviLevin/people-finder-engine",
     "live":"https://people-finder-engine.web.app/#/",
     "stack":"c"
   },
   {
+    "id":2,
+    "title": "Movies Search OMDB API",
     "pic_url": "images/prj2.jpg",
-    "github":"https://github.com/AviLevin/people-finder-engine",
-    "live":"https://people-finder-engine.web.app/#/",
+    "github":"https://github.com/AviLevin/MovieApp---OMDB-API",
+    "live":"https://avilevinimdbmovie1.netlify.app/",
     "stack":"c"
   },
   {
+    "id":3,
+    "title": " Food Order App ",
     "pic_url": "images/prj3.jpg",
-    "github":"https://github.com/AviLevin/people-finder-engine",
-    "live":"https://people-finder-engine.web.app/#/",
+    "github":"https://github.com/AviLevin/Food-Order-App_-React_Firebase",
+    "live":null,
     "stack":"c"
   },
   {
+    "id":4,
+    "title": "Online Shopping Cart ",
     "pic_url": "images/prj4.jpg",
-    "github":"https://github.com/AviLevin/people-finder-engine",
-    "live":"https://people-finder-engine.web.app/#/",
+    "github":"https://github.com/AviLevin/Online-Shopping-Cart",
+    "live":null,
     "stack":"c"
   },
   {
+    "id":5,
+    "title": "Bynet_sr_1",
     "pic_url": "images/prj5.jpg",
-    "github":"https://github.com/AviLevin/people-finder-engine",
-    "live":"https://people-finder-engine.web.app/#/",
+    "github":"https://github.com/AviLevin/Bynet_sr_React",
+    "live":null,
     "stack":"c"
   },
   {
+    "id":6,
+    "title": "Travel Agency",
+    "pic_url": "images/prj8.jpg",
+    "github":"https://github.com/AviLevin/Travel-Agency",
+    "live":null,
+    "stack":"c"
+  },
+  {
+    "id":7,
+    "title": "Live Crypto Market Data ",
     "pic_url": "images/prj6.jpg",
+    "github":"https://github.com/AviLevin/Live-Crypto-Market-Data",
+    "live":null,
+    "stack":"c"
+  },
+  {
+    "id":8,
+    "title": "Humanz CRUD + filter ",
+    "pic_url": "images/prj11.jpg",
+    "github":"https://github.com/AviLevin/Humanz-crud-filter",
+    "live":null,
+    "stack":"c"
+  },
+  {
+    "id":9,
+    "title": "API VIEW on router - match.params ",
+    "pic_url": "images/prj12.jpg",
+    "github":"https://github.com/AviLevin/people-finder-engi",
+    "live":null,
+    "stack":"c"
+  },
+  {
+    "id":10,
+    "title": "Portfolio ",
+    "pic_url": "images/prj10.jpg",
+    "github":"https://github.com/AviLevin/My-Portfolio",
+    "live":"https://portfolio-ef6c8.web.app/",
+    "stack":"c"
+  },
+  {
+    "id":11,
+    "title": "Bynet 2021 - Carousel-Pixabay-API ",
+    "pic_url": "images/prj13.jpg",
+    "github":"https://github.com/AviLevin/Carousel-Pixabay-API",
+    "live":null,
+    "stack":"cd"
+  },
+  {
+    "id":12,
+    "title": "CRUD with ES6 class ",
+    "pic_url": "images/prj14.jpg",
+    "github":"https://github.com/AviLevin/crud_class_with_ES6_class",
+    "live":"https://codesandbox.io/s/crud-app-with-es6-class-5ksin",
+    "stack":"cd"
+  },
+  
+  {
+    "id":13,
+    "title": "CRUD with Hooks ",
+    "pic_url": "images/prj15.jpg",
+    "github":"https://github.com/AviLevin/React_CRUD_Hooks",
+    "live":"https://codesandbox.io/s/xenodochial-herschel-5vf10",
+    "stack":"cd"
+  },
+  
+  {
+    "id":14,
+    "title": "CRUD - VIEW on router ",
+    "pic_url": "images/",
     "github":"https://github.com/AviLevin/people-finder-engine",
     "live":"https://people-finder-engine.web.app/#/",
-    "stack":"c"
+    "stack":"cd"
+  },
+  
+  {
+    "id":15,
+    "title": "CRUD - VIEW on router ",
+    "pic_url": "images/",
+    "github":"https://github.com/AviLevin/people-finder-engine",
+    "live":"https://people-finder-engine.web.app/#/",
+    "stack":"cd"
   }
   
 ]

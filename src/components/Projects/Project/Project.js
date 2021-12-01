@@ -13,10 +13,7 @@ const Project = (props) => {
           src={props.project.pic_url}
         />
       </div>
-      <br></br>
-
-      <br></br>
-
+<div className={classes.title}>{props.project.title}</div>
       <div className={classes["card-body"]}>
         <ul>
           <li>

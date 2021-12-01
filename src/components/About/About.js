@@ -4,7 +4,7 @@ import image1 from "./ha1.jpg"
 const About = () => {
   return (
     <div>
-     <h1>All My Projects</h1>
+     <h1>All My Projects</h1>  
     </div>
   );
 };
